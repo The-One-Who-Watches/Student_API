@@ -1,0 +1,11 @@
+###Get Tooele Tech Route/
+GET http://localhost:3000/ttech HTTP/1.1
+
+###Get the Root Path/
+GET http://localhost:300 HTTP/1.1
+###Get all Students
+GET http://localhost:3000/students
+
+###Get 1 Student
+GET http://localhost:3000/students/5535168
+
